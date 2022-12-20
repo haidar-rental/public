@@ -1,0 +1,1 @@
+import r from"./HaidarHeader.7b968d92.js";import _ from"./HaidarFooter.f4eaccbe.js";import{J as a,o as c,E as s,P as o,K as m}from"./entry.5f83ac56.js";const d={};function f(e,l){const t=r,n=_;return c(),s("div",null,[o(t),m(e.$slots,"default"),o(n)])}const x=a(d,[["render",f]]);export{x as default};

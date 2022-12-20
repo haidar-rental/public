@@ -1,0 +1,1 @@
+import{u as e}from"./composables.42e712af.js";import{o as a,E as t,F as s}from"./entry.5f83ac56.js";const n=s("p",null,"Halaman Ulasan",-1),o=[n],p={__name:"review",setup(l){return e({titleTemplate:"Ulasan Pelanggan | %s"}),(r,c)=>(a(),t("section",null,o))}};export{p as default};

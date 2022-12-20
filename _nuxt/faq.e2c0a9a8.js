@@ -1,0 +1,1 @@
+import{u as e}from"./composables.42e712af.js";import{o as a,E as t,F as s}from"./entry.5f83ac56.js";const n=s("p",null,"Halaman FAQ",-1),o=[n],m={__name:"faq",setup(r){return e({titleTemplate:"Yang sering ditanyakan | %s"}),(c,_)=>(a(),t("section",null,o))}};export{m as default};

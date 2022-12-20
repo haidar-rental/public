@@ -1,0 +1,1 @@
+import{u as e}from"./composables.42e712af.js";import{o as a,E as t,F as o}from"./entry.5f83ac56.js";const s=o("p",null,"Halaman Katalog",-1),l=[s],m={__name:"katalog",setup(n){return e({titleTemplate:"Katalog produk | %s"}),(r,c)=>(a(),t("section",null,l))}};export{m as default};
